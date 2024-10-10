@@ -26,7 +26,7 @@ public class Admin {
         Logger logger = LogService.getApplicationLogger();
         User loggedUser = null;
         List<User> users = null;
-
+        
 
         Map<String, Object> factoryParameter = new HashMap<>();
         factoryParameter.put("request",request);
