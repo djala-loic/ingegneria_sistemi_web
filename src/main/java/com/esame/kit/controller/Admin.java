@@ -27,6 +27,9 @@ public class Admin {
         User loggedUser = null;
         List<User> users = null;
 
+        /*
+        * factoryParameter : mappa che contiene i parametri per la creazione di un oggetto DAOFactory
+         */
 
         Map<String, Object> factoryParameter = new HashMap<>();
         factoryParameter.put("request",request);
