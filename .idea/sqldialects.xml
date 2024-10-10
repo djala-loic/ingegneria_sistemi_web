@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/helpUs.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/esame/kit/model/dao/mysqlImpl/PrenotazioneDAOMYSQLIMPL.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/esame/kit/model/dao/mysqlImpl/TemplateDAOMYSQLIMPL.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/esame/kit/model/dao/mysqlImpl/UserDAOMYSQLIMPL.java" dialect="GenericSQL" />
+  </component>
+</project>

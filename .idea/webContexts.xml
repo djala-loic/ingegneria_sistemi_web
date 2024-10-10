@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/admin/templatesComments/dati.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/admin/templatesComments" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/home/user/datiUser.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/home/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/prenotazioni/prenotazioneDati/prenotazioniDati.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/prenotazioni/prenotazioneDati" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/templates/newTemplate/form.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/templates/newTemplate" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/templates/prenotation/formPrenotation.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/templates/prenotation" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/templates/template.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/templates" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/templates/templatesDati/historyDati.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/templates/templatesDati" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/includes/templates/templatesDati/templatesDati.inc" value="file://$PROJECT_DIR$/src/main/webapp/includes/templates/templatesDati" />
+      </map>
+    </option>
+  </component>
+</project>
